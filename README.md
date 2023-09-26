@@ -2,6 +2,6 @@
 
 Modelagem conceitual e física de banco de dados para cadastro de clientes e veículos de Oficina Mecânica
 
-Programas Utilizados:
+Programas utilizados:
 - brModelo
 - MySQL
