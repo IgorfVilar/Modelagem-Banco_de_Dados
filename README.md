@@ -1,6 +1,7 @@
-# Modelagem de Banco de Dados - Oficina Mecânica
+# Modelagem de Banco de Dados 
 
-Modelagem conceitual e física de banco de dados para cadastro de clientes e veículos de Oficina Mecânica
+1. Modelagem conceitual e física de banco de dados para cadastro de clientes e veículos de Oficina Mecânica
+2. Modelagem conceitual e física de banco de dados para controle de consultas e internações de Consultório Médico.
 
 Programas utilizados:
 - brModelo
